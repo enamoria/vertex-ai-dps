@@ -1,7 +1,7 @@
 from google.cloud import aiplatform
 
 endpoint = aiplatform.Endpoint(
-    endpoint_name="projects/551577981756/locations/us-central1/endpoints/9061251246362460160"
+    endpoint_name="projects/551577981756/locations/us-central1/endpoints/4764817201851006976"
 )
 
 # A test example we'll send to our model for prediction
